@@ -1,5 +1,7 @@
-Name,Email,City,Occupation
-Ali,ali@example.com,Karachi,Engineer
-Sara,sara@example.com,Lahore,Designer
-Usman,usman@example.com,Islamabad,Developer
-Ayesha,ayesha@example.com,Peshawar,Teacher
+question,option1,option2,option3,option4,correct option
+lim x->0 (sin x)/x,0,1,∞,-1,1
+log(x^2) + tan(y),log(x) + tan(y),log(x^2) + sin(y),tan(x) + log(y),log(xy) + tan(y),log(x^2) + tan(y)
+∫ x^2 dx,x^2,x^3,1/3 x^3,(1/3)x^3,(1/3)x^3
+d/dx (sin x),cos x,-cos x,sin x,-sin x,cos x
+lim x->∞ (1 + 1/x)^x,e,1,0,∞,e
+d/dx (ln x),1/x,x,ln x,x ln x,1/x
